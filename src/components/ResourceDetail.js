@@ -8,7 +8,7 @@ const ResourceDetail = ({ resource }) => {
   const { 
     thumbnail_image, 
     title, 
-    artist, 
+    author, 
     image,
     url } = resource;
     
@@ -33,7 +33,7 @@ const ResourceDetail = ({ resource }) => {
         
         <View style={headerTextContainer}>
           <Text style={headerTextResource}>{title}</Text>
-          <Text>{artist}</Text>
+          <Text>{author}</Text>
         </View>
       </CardSection>
         
@@ -47,7 +47,7 @@ const ResourceDetail = ({ resource }) => {
       
       <CardSection>
         <Button onPress={() => Linking.openURL(url)}>
-          Buy Now
+          Check it out
         </Button>
       </CardSection>
       

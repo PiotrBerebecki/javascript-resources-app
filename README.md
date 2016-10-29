@@ -2,7 +2,7 @@
 
 <img src="https://github.com/PiotrBerebecki/javascript-resources-app/blob/master/images/app-demo.gif" width="325">
 
-Live version: [https://rnplay.org/apps/oQbi1w](https://rnplay.org/apps/oQbi1w)
+Live version: [https://rnplay.org/apps/3CUVOA](https://rnplay.org/apps/3CUVOA)
 
 Development tools and techniques include:
 
