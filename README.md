@@ -9,8 +9,6 @@ Development tools and techniques include:
 * React Native
 * CSS Flexbox
 * ES6
-* AJAX
-* Axios (Promise-based http client)
 * ESLint
 * Android Studio
 * Node
